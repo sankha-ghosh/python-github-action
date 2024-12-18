@@ -1,11 +1,8 @@
-<<<<<<< HEAD
 # python-github-action
 practise github action with sample python project
-=======
-# GitHub-Actions-Zero-to-Hero
 Repository to kick start your journey with GitHub Actions
 
-## Comparing with Jenkins 
+## Comparing with Jenkins
 
 ### Advantages of GitHub Actions over Jenkins
 
@@ -20,6 +17,3 @@ Repository to kick start your journey with GitHub Actions
 - Integration: Jenkins can integrate with a wide range of tools and services, but GitHub Actions is tightly integrated with the GitHub platform, making it easier to automate tasks related to your GitHub workflow.
 
 In conclusion, Jenkins is better suited for complex and large-scale automation tasks, while GitHub Actions is a more cost-effective and user-friendly solution for simple to moderate automation needs.
-
-
->>>>>>> temp-branch
